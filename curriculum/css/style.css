@@ -1,0 +1,87 @@
+.skills {
+	margin-left: 8.2%;
+}
+
+.skills2 {
+	margin-left: 8.8%;
+}
+
+.skills3 {
+	margin-left: 8%;
+}
+
+.skills4 {
+	margin-left: 8.3%;
+}
+
+#servicos {
+	padding-top: 120px !important;
+}
+
+.portifolio {
+	padding-top: 0px !important;
+}
+
+.personal-skills {
+	padding-top: 50px !important;
+}
+
+.c100.p90 .fill {
+	border: 0.08em solid #D84E2D !important;
+}
+
+.c100.p80 .fill.css3 {
+	border: 0.08em solid #29A9DF !important;
+}
+
+.c100.p80 .fill.js {
+	border: 0.08em solid #D6BA32 !important;
+}
+
+.html5:hover > span {
+	color: #D84E2D !important;
+}
+
+.jss:hover > span {
+	color: #D6BA32 !important;
+}
+
+.css3:hover > span {
+	color: #29A9DF !important;
+}
+
+.php7:hover > span {
+	color: #005C81 !important;
+}
+
+.htmlskill {
+	color: #D84E2D !important;
+}
+
+.cssskill {
+	color: #29A9DF !important;
+}
+
+.jsskill {
+	color: #D6BA32 !important;
+}
+
+.phpskill {
+	color: #005C81 !important;
+}
+
+.html {
+	border: 0.08em solid #D84E2D !important;
+}
+
+.css {
+	border: 0.08em solid #29A9DF !important;
+}
+
+.js {
+    border: 0.08em solid #D6BA32 !important;
+}
+
+.php {
+	border: 0.08em solid #005C81 !important;
+}
